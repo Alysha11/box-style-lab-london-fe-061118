@@ -49,21 +49,21 @@ h4 {
 .column {
   width: 30%;
   display: inline-block;
-  border: solid 1px darkgray;
+
 }
 
 .small {
-
+  border: solid 1px darkgray;
   width: 100%;
   height: 100%;
 }
 
 .med {
-
+  border: solid 1px darkgray;
   width: 203.5%;
 }
 
 .large {
-
+  border: solid 1px darkgray;
   width: 303%;
 }
