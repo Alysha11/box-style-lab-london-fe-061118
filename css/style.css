@@ -49,7 +49,7 @@ h4 {
 .column {
   width: 30%;
   display: inline-block;
-  border: solid 
+  border: solid 1px darkgray;
 }
 
 .small {
